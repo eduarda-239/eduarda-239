@@ -7,7 +7,7 @@ Me chamo Maria Eduarda,tenho 23 anos e sou natural de Brasília-DF. Atualmente e
 - 🔭 Atualmente estou trabalhando em uma empresa de nobreaks
 - 🌱 Aprendendo análise de business intelligence 
 - 👯 Foco em colaborar em resolução de problemas
-- 📫 Contate-me no email: eduarda.melo17@outlook.com
+- 📫 Contate-me no email: eduardamelo.data@gmail.com
 - 😄 Ela/Dela
   <br>
 ---
