@@ -9,8 +9,8 @@ Me chamo Maria Eduarda, tenho 23 anos e sou natural de Brasília-DF. Atualmente 
 - 👯 Foco em colaborar em resolução de problemas
 - 📫 Contate-me no email: eduardamelo.data@gmail.com
 - 😄 Ela/Dela 
+<br>
   
-
 **Linguagens e Tecnologias**
   
   <div style="display: inline_block"><br>
