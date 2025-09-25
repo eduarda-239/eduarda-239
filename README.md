@@ -11,7 +11,7 @@ Me chamo Maria Eduarda, tenho 23 anos e sou natural de Brasília-DF. Atualmente 
 - 😄 Ela/Dela 
   <br>
   
-  ## **Linguagens e Tecnologias**
+  **Linguagens e Tecnologias**
   
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" 
