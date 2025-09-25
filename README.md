@@ -12,7 +12,7 @@ Me chamo Maria Eduarda,tenho 23 anos e sou natural de Brasília-DF. Atualmente s
   <br>
 
   <div style="display: inline_block" ><br>
-      <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
     
   </div>
 ---
