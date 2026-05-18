@@ -21,6 +21,8 @@ Me chamo Maria Eduarda, tenho 24 anos e sou natural de Brasília-DF. Atualmente 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Android" height="40" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" alt="Python" height="40" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 
 
