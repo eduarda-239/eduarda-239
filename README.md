@@ -1,6 +1,6 @@
 ## 👩‍💻 Eduarda Melo 
 
-**Analista de BI**
+**Graduada em Sistemas de Informação, curso em Analista de BI e estudante de Python**
 
 Me chamo Maria Eduarda, tenho 24 anos e sou natural de Brasília-DF. Atualmente sou formada em Sistemas de Informação pela faculdade IESB e certificada em Analista de BI pela Escola DNC. Estou focada na área de tecnologia e resolução de problemas !
 
