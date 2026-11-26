@@ -5,9 +5,9 @@
 Me chamo Maria Eduarda, tenho 24 anos e sou natural de Brasília-DF. Atualmente sou formada em Sistemas de Informação pela faculdade IESB e certificada em Analista de BI pela Escola DNC. Estou focada na área de tecnologia e resolução de problemas !
 
 - 🔭 Tenho um aplicativo disponível na Google Play ! 
-- 🌱 Caminhando para análise de business intelligence 
+- 🌱 Caminhando para desenvolvimento full stack
 - 👯 Foco em colaborar em resolução de problemas
-- 📫 Contate-me no email: eduardamelo.data@gmail.com
+- 📫 Contate-me no email: eduardamelo.tech@gmail.com
 - 😄 Ela/Dela 
 <br>
   
